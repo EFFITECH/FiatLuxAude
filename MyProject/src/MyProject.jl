@@ -10,5 +10,5 @@ ForwardDiff.derivative(f,2)
 #using PkgTemplates
 #t=Template(user="jpbrasile")
 #t("demo2")
-Pkg.add("demo2")
+ Pkg.add("demo2")
 end # module
