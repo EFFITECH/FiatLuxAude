@@ -1,0 +1,4 @@
+name = "MyProject"
+uuid = "36dbb2f5-d290-4d80-b46c-32098906ea77"
+authors = ["jpbrasile <brasile@effitech.eu>"]
+version = "0.1.0"
